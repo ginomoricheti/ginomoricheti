@@ -16,7 +16,7 @@ In my leisure time, I find solace in the world of books, indulging in the joy of
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,ai,notion)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -32,7 +32,7 @@ In my leisure time, I find solace in the world of books, indulging in the joy of
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/GinoMorichetti) or on [LinkedIn](https://www.linkedin.com/in/ginomorichetti/)
+- Connect with me on [Twitter](https://twitter.com/GinoMorichetti), [Discord](gezz_) or on [LinkedIn](https://www.linkedin.com/in/ginomorichetti/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
