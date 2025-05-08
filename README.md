@@ -8,7 +8,7 @@ In my leisure time, I find solace in the world of books, indulging in the joy of
 
 ## 🚀 About Me
 
-- 🔭 I'm currently studying to become a fullstack developer.
+- 🔭 I'm currently studying to become a computer analyst.
 - 📝 I recently entered the world of programming, this is just the beginning!
 
 <!-- ## My Articles
@@ -16,7 +16,7 @@ In my leisure time, I find solace in the world of books, indulging in the joy of
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,pycharm,vscode,css,html,js,ts,npm,vite,react,nextjs,nodejs,php,mongodb,mysql,postgres,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pycharm,vscode,css,html,js,ts,npm,vite,react,nextjs,nodejs,php,mongodb,mysql,postman,notion,obsidian)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
