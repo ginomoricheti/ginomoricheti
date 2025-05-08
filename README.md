@@ -16,7 +16,7 @@ In my leisure time, I find solace in the world of books, indulging in the joy of
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,ai,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,ai,notion,mysql,sql,mariadb,php)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
