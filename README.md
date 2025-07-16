@@ -17,7 +17,7 @@ In my leisure time, I find solace in the world of books, indulging in the joy of
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)-->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,pycharm,vscode,css,html,js,ts,npm,vite,react,nextjs,nodejs,php,mongodb,mysql,postman,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pycharm,vscode,css,html,js,ts,npm,vite,react,tauri,rust,nextjs,nodejs,php,mongodb,mysql,postman,notion,obsidian)](https://skillicons.dev)
 
 ## Currently Exploring
 
