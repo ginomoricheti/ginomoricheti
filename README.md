@@ -1,5 +1,5 @@
 # Hi, I'm Gino Morichetti! 👋  
-## Full Stack Developer | International Trade Graduate | Computer Science Analyst Student  
+## International Trade Graduate | Computer Science Analyst Student  
 
 Passionate developer combining business acumen with technical expertise. I specialize in creating practical desktop applications and web solutions that solve real-world problems for businesses and institutions.
 
